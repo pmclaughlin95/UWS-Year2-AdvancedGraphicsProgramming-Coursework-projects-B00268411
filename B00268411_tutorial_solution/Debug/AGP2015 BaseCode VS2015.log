@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (AGP2015 BaseCode VS2015.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+h:\uni\year 3\advanced graphics programming\b00268411_tutorial_solution\agp2015 basecode vs2015\main.cpp(269): warning C4305: '+=': truncation from 'double' to 'float'
+h:\uni\year 3\advanced graphics programming\b00268411_tutorial_solution\agp2015 basecode vs2015\main.cpp(270): warning C4305: '-=': truncation from 'double' to 'float'
+     Creating library H:\uni\Year 3\Advanced Graphics Programming\B00268411_tutorial_solution\Debug\AGP2016 BaseCode VS2015.lib and object H:\uni\Year 3\Advanced Graphics Programming\B00268411_tutorial_solution\Debug\AGP2016 BaseCode VS2015.exp
+  AGP2015 BaseCode VS2015.vcxproj -> H:\uni\Year 3\Advanced Graphics Programming\B00268411_tutorial_solution\Debug\AGP2016 BaseCode VS2015.exe
+  AGP2015 BaseCode VS2015.vcxproj -> H:\uni\Year 3\Advanced Graphics Programming\B00268411_tutorial_solution\Debug\AGP2016 BaseCode VS2015.pdb (Partial PDB)
